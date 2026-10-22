@@ -3,3 +3,9 @@
 - Sound effects from Wikimedia Commons (public domain / CC0), except `Scarlet_macaw_01.wav` and `Birdsong_morning_01.ogg`, used under **CC BY-SA 4.0** (Wikimedia Commons contributors).
 - Treble clef glyph: Wikimedia Commons "GClef.svg" (public domain).
 - 3D engine: three.js (MIT).
+- Bass clef glyph: Wikimedia Commons "FClef.svg" (public domain).
+- **Characters**: human bodies, faces, skins, eyes, hair, eyebrows and most clothing generated with **MakeHuman / MPFB2** for Blender (generated output CC0). Asset packs from the MakeHuman community asset repository (static.makehumancommunity.org):
+  - CC0: makehuman_system_assets, shirts01, shoes01, pants01, bodyparts05, hair01, skins01–03, eyebrows01, underwear04, dress01, skirts01.
+  - **CC BY 4.0** (attribution to the named MakeHuman community authors): Mindfront (cardigan_long_open_front coat), Elvs (male shirt untucked, male trouser, male flat cap), Drednicolson (asymmetric tunic and sash), Punkduck (riding boots, medieval boots, female knee boots), Grinsegold (full beard, female pirate boots), RehmanPolanski (viking beard/moustache, hair bun), Toigo (fisherman sweater, wool pants, shift dress, camisole dress, ankle/cloth shoes), Cortu (short messy hair), WDG (scruffy beard), from packs shirts02, shirts03, shoes03, pants02, bodyparts06, hats03.
+  - Tricorn hat, bandanas and eyepatch modelled procedurally for this game. Character animation is procedural (no Mixamo or third-party motion data).
+- Voices: neural TTS (Chatterbox, MIT licence) conditioned on synthetic reference voices made with Kokoro-82M (Apache-2.0). No real person's voice was cloned.
