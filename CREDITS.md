@@ -1,5 +1,5 @@
 # Shanty Seas – credits & licenses
-- Orchestral music rendered offline from **VSCO-2 Community Edition** samples (CC0).
+- Orchestral music rendered offline from **VSCO-2 Community Edition** samples (CC0). The Irish-style jigs (voyage map loop, results, night jam, village celebration) use the VSCO-2 solo violin as fiddle, flute played an octave up as a tin-whistle stand-in, and the tenor drum played in a bodhran-style pattern — no real bodhran or whistle samples were available. Tunes are original.
 - Sound effects from Wikimedia Commons (public domain / CC0), except `Scarlet_macaw_01.wav` and `Birdsong_morning_01.ogg`, used under **CC BY-SA 4.0** (Wikimedia Commons contributors).
 - Treble clef glyph: Wikimedia Commons "GClef.svg" (public domain).
 - 3D engine: three.js (MIT).
